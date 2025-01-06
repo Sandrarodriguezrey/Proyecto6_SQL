@@ -24,9 +24,9 @@ Dentro del directorio events, crea archivos de error 400 y 500. Llama a estos ar
 
 ## Base de datos -  indicaciones:
 
-🤷‍♀️ Base de datos de los viajes en taxi de Chicago ( se adjunta tabla pdf ):
+🤷‍♀️ Base de datos de los viajes en taxi de Chicago:
 
-![Cuadro de datos de taxis]  (https://github.com/Sandrarodriguezrey/Proyecto6_SQL/blob/main/Tabla.svg)
+[Cuadro relacional de datos de taxi]  (https://github.com/Sandrarodriguezrey/Proyecto6_SQL/blob/main/Cuadro%20Taxi%20relacional.JPG)
 
 La tabla neighborhoods, con información sobre los barrios de la ciudad:
 
