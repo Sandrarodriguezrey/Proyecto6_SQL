@@ -29,31 +29,33 @@ Dentro del directorio events, crea archivos de error 400 y 500. Llama a estos ar
 <img src="https://raw.githubusercontent.com/Sandrarodriguezrey/Proyecto6_SQL/main/Cuadro%20Taxi%20relacional.JPG" alt="Cuadro relacional de datos de taxi" width="600"/>
 
 
-La tabla neighborhoods, con información sobre los barrios de la ciudad:
+La tabla neighborhoods, con información sobre los barrios de la ciudad:<br>
 
-neighborhood_id: código del vecindario.
-name: nombre del vecindario.
+neighborhood_id: código del vecindario.<br>
+name: nombre del vecindario.<br>
 La tabla cabs, con información sobre los taxis:
 
-cab_id: código único del vehículo.
-vehicle_id: identificador técnico del vehículo.
-company_name: la compañía dueña del automóvil.
-La tabla trips, con información sobre viajes:
+cab_id: código único del vehículo.<br>
+vehicle_id: identificador técnico del vehículo.<br>
+company_name: la compañía dueña del automóvil.<br>
 
-trip_id: código de viaje.
-cab_id: el código del automóvil usado para el viaje.
-start_ts: fecha y hora del inicio del viaje (tiempo redondeado a la hora más próxima).
-end_ts: fecha y hora del fin del viaje (tiempo redondeado a la hora más próxima).
-duration_seconds: la duración del viaje en segundos.
-distance_miles: la distancia del viaje en millas.
-pickup_location_id: el código del vecindario donde inició el viaje.
-dropoff_location_id: el código del vecindario donde terminó el viaje.
-La tabla weather_records (registros meteorológicos), con información sobre el clima:
+La tabla trips, con información sobre viajes:<br>
 
-record_id: código del registro de observación meteorológica.
-ts: fecha y hora de la observación (tiempo redondeado a la hora más próxima).
-temperature: temperatura a la hora de la observación.
-description: una breve descripción de las condiciones meteorológicas (p. ej., lluvia ligera o nubes dispersas).
+trip_id: código de viaje. <br>
+cab_id: el código del automóvil usado para el viaje.<br>
+start_ts: fecha y hora del inicio del viaje (tiempo redondeado a la hora más próxima).<br>
+end_ts: fecha y hora del fin del viaje (tiempo redondeado a la hora más próxima).<br>
+duration_seconds: la duración del viaje en segundos.<br>
+distance_miles: la distancia del viaje en millas.<br>
+pickup_location_id: el código del vecindario donde inició el viaje.<br>
+dropoff_location_id: el código del vecindario donde terminó el viaje.<br>
+
+La tabla weather_records (registros meteorológicos), con información sobre el clima:<br>
+
+record_id: código del registro de observación meteorológica.<br>
+ts: fecha y hora de la observación (tiempo redondeado a la hora más próxima).<br>
+temperature: temperatura a la hora de la observación.<br>
+description: una breve descripción de las condiciones meteorológicas (p. ej., lluvia ligera o nubes dispersas).<br>
 
 ## Ejercicio 1
 Tienes una base de datos con los viajes en taxi. El plan era tener 10,550 vehículos disponibles, lo que cubre la demanda del usuario; sin embargo, el equipo recibió muchas quejas de que no había vehículos suficientes. ¿Cuántos taxis hay actualmente en las calles? La información sobre todos los automóviles suficientes está en la tabla cabs.
