@@ -95,12 +95,12 @@ Organiza en orden descendente los resultados obtenidos en el campo trips_amount.
 
 ## Desarrollo del Proyecto:  Se abordaron dos áreas principales: trabajo con logs en consola y consultas en una base de datos.
 
-**1. Consola:** realice dos ejercicios fundamentales:
+## Consola: realice dos ejercicios fundamentales:
 
 **Ejercicio 1:** Identifique las solicitudes realizadas desde una dirección IP específica (233.201) dentro de un archivo de logs remoto.
 **Ejercicio 2:** Filtre los logs de un error ocurrido el 30 de diciembre de 2019, separando los errores 400 y 500 en archivos distintos y almacenándolos en una estructura de directorios organizada.
 
-**2. Base de Datos:** Trabaje con una base de datos de taxis en Chicago, con tablas que incluyen información de vecindarios, taxis, viajes y condiciones meteorológicas.
+## Base de Datos: Trabaje con una base de datos de taxis en Chicago, con tablas que incluyen información de vecindarios, taxis, viajes y condiciones meteorológicas.
 
 **Ejercicio 1:** Contabilizar el número total de taxis disponibles en la ciudad.
 **Ejercicio 2:** Determinar cuántos vehículos pertenecen a cada compañía y encontrar las compañías con menos de 100 automóviles.
