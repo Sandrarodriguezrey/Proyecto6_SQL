@@ -17,9 +17,9 @@ Se ha detectado un error en el sistema. Estaba activo el 12.30.2019. En ese mome
 
 Después, debes poner estos logs en archivos por separado con base en los errores.
 
-En el directorio de inicio del servidor remoto, crea un directorio llamado bug1.
-Pon todas las solicitudes que ocurrieron en el archivo main.txt en el directorio bug1.
-Dentro del directorio bug1 , crea un directorio events.
+En el directorio de inicio del servidor remoto, crea un directorio llamado bug1.<br>
+Pon todas las solicitudes que ocurrieron en el archivo main.txt en el directorio bug1.<br>
+Dentro del directorio bug1 , crea un directorio events.<br>
 Dentro del directorio events, crea archivos de error 400 y 500. Llama a estos archivos 400.txt y 500.txt, respectivamente. Identifica en ellos los logs utilizando el error correspondiente del archivo main.txt.
 
 ## Base de datos -  indicaciones:
