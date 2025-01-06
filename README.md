@@ -93,7 +93,7 @@ Devuelve el campo company_name. Nombra trips_amount (cantidad de viajes) al camp
 Organiza en orden descendente los resultados obtenidos en el campo trips_amount.
 
 
-**Desarrollo del Proyecto:**  En este proyecto, se abordaron dos áreas principales: trabajo con logs en consola y consultas en una base de datos.
+## Desarrollo del Proyecto:  Se abordaron dos áreas principales: trabajo con logs en consola y consultas en una base de datos.
 
 **1. Consola:** realice dos ejercicios fundamentales:
 
