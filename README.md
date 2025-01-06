@@ -97,15 +97,15 @@ Organiza en orden descendente los resultados obtenidos en el campo trips_amount.
 
 ## Consola: realice dos ejercicios fundamentales:
 
-**Ejercicio 1:** Identifique las solicitudes realizadas desde una dirección IP específica (233.201) dentro de un archivo de logs remoto.
-**Ejercicio 2:** Filtre los logs de un error ocurrido el 30 de diciembre de 2019, separando los errores 400 y 500 en archivos distintos y almacenándolos en una estructura de directorios organizada.
+**Ejercicio 1:** Identifique las solicitudes realizadas desde una dirección IP específica (233.201) dentro de un archivo de logs remoto.<br>
+**Ejercicio 2:** Filtre los logs de un error ocurrido el 30 de diciembre de 2019, separando los errores 400 y 500 en archivos distintos y almacenándolos en una estructura de directorios organizada.<br>
 
 ## Base de Datos: Trabaje con una base de datos de taxis en Chicago, con tablas que incluyen información de vecindarios, taxis, viajes y condiciones meteorológicas.
 
-**Ejercicio 1:** Contabilizar el número total de taxis disponibles en la ciudad.
-**Ejercicio 2:** Determinar cuántos vehículos pertenecen a cada compañía y encontrar las compañías con menos de 100 automóviles.
-**Ejercicio 3:** Investigar un posible error en el cálculo de un coeficiente de costo basado en las condiciones meteorológicas, utilizando la tabla de registros meteorológicos.
-**Ejercicio 4:** Verificar discrepancias entre las ganancias reportadas por la aplicación y los datos reales de los viajes realizados en los días 15 y 16 de noviembre de 2017.
+**Ejercicio 1:** Contabilizar el número total de taxis disponibles en la ciudad.<br>
+**Ejercicio 2:** Determinar cuántos vehículos pertenecen a cada compañía y encontrar las compañías con menos de 100 automóviles.<br>
+**Ejercicio 3:** Investigar un posible error en el cálculo de un coeficiente de costo basado en las condiciones meteorológicas, utilizando la tabla de registros meteorológicos.<br>
+**Ejercicio 4:** Verificar discrepancias entre las ganancias reportadas por la aplicación y los datos reales de los viajes realizados en los días 15 y 16 de noviembre de 2017.<br>
 
 Para más detalles en las respuestas puedes consultar el archivo en el siguiente enlace: ("https://github.com/Sandrarodriguezrey/Proyecto6_SQL/blob/main/Proyecto%20Sprint%206%20Sandra%20Rodriguez.pdf")
 
