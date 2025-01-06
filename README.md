@@ -1,9 +1,9 @@
-# Proyecto 6: Proyecto para trabajar en consola con los logs y la base de datos para una aplicación de taxis.
+# Proyecto de práctica 6: Proyecto para trabajar en consola con los logs y la base de datos para una aplicación de taxis.
 
 ## Instrucciones para el Desarrollo del Proyecto
-Este proyecto consta de dos partes. Se trabajara en Consola y en Base de datos.
+Este proyecto consta de dos partes. Consola y en Base de datos.
 
-## Consola
+## Consola -  indicaciones:
 
 ## Ejercicio 1
 Averiguar qué solicitudes han venido de una dirección IP. Una dirección IP consta de cuatro números separados por un punto. Necesitas direcciones que comiencen con "233.201".
@@ -22,7 +22,7 @@ Pon todas las solicitudes que ocurrieron en el archivo main.txt en el directorio
 Dentro del directorio bug1 , crea un directorio events.
 Dentro del directorio events, crea archivos de error 400 y 500. Llama a estos archivos 400.txt y 500.txt, respectivamente. Identifica en ellos los logs utilizando el error correspondiente del archivo main.txt.
 
-## Base de datos
+## Base de datos -  indicaciones:
 
 🤷‍♀️ Base de datos de los viajes en taxi de Chicago ( se adjunta tabla pdf ):
 
@@ -53,7 +53,7 @@ temperature: temperatura a la hora de la observación.
 description: una breve descripción de las condiciones meteorológicas (p. ej., lluvia ligera o nubes dispersas).
 
 ## Ejercicio 1
-Tienes una base de datos con los viajes en taxi. El plan era tener 10 550 vehículos disponibles, lo que cubre la demanda del usuario; sin embargo, el equipo recibió muchas quejas de que no había vehículos suficientes. ¿Cuántos taxis hay actualmente en las calles? La información sobre todos los automóviles suficientes está en la tabla cabs.
+Tienes una base de datos con los viajes en taxi. El plan era tener 10,550 vehículos disponibles, lo que cubre la demanda del usuario; sin embargo, el equipo recibió muchas quejas de que no había vehículos suficientes. ¿Cuántos taxis hay actualmente en las calles? La información sobre todos los automóviles suficientes está en la tabla cabs.
 
 Ve al servidor remoto.
 Conéctate a la base de datos chicago_taxi 
@@ -87,6 +87,27 @@ Devuelve el campo company_name. Nombra trips_amount (cantidad de viajes) al camp
 Organiza en orden descendente los resultados obtenidos en el campo trips_amount.
 
 ## Se adjunta Respuesta en PDF 
+
+## 7. Herramientas utilizadas:
+
+**SQL** Para el diseño de casos de pruebas y la gestión de errores.
+
+**Hojas de calculo** Google sheets.
+
+# CONCLUSIÓN
+
+En este proyecto he fortalecido mis competencias en bases de datos y en análisis de logs, conociendo un enfoque más integral sobre cómo manejar la calidad del software desde diferentes perspectivas.
+Me ha proporcionado una valiosa experiencia práctica en la aplicación de SQL y en la gestión de bases de datos, que son habilidades importantes para cualquier ingeniero de calidad.
+
+************
+
+
+:sparkles: **GRACIAS** por visitar este proyecto. 
+
+**MUCHAS ESTRELLITAS DE LUZ PARA TI** :star2::star2::star2::star2:
+
+**Si tienes preguntas puedes contactarme en mi Linkedln. :point_right: www.linkedin.com/in/sandrarodriguez461428179**
+
 
 
 
