@@ -94,7 +94,7 @@ Organiza en orden descendente los resultados obtenidos en el campo trips_amount.
 
 ## Se adjunta Respuesta en PDF   
 
-<img src="https://github.com/Sandrarodriguezrey/Proyecto6_SQL/blob/main/Proyecto%20Base%20de%20Datos.pdf">
+<img src="https://github.com/Sandrarodriguezrey/Proyecto6_SQL/blob/main/Proyecto%20Sprint%206%20Sandra%20Rodriguez.pdf">
 
 ## Herramientas utilizadas:
 
