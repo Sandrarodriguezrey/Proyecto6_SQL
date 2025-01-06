@@ -92,18 +92,32 @@ Para determinar si hay un bug, debes obtener la selección del número de viajes
 Devuelve el campo company_name. Nombra trips_amount (cantidad de viajes) al campo con el número de viajes y devuélvelo.<br>
 Organiza en orden descendente los resultados obtenidos en el campo trips_amount.
 
-## Se adjunta Respuesta  ("https://github.com/Sandrarodriguezrey/Proyecto6_SQL/blob/main/Proyecto%20Sprint%206%20Sandra%20Rodriguez.pdf")
+
+**Desarrollo del Proyecto:**  En este proyecto, se abordaron dos áreas principales: trabajo con logs en consola y consultas en una base de datos.
+
+**1. Consola:** realice dos ejercicios fundamentales:
+
+**Ejercicio 1:** Identifique las solicitudes realizadas desde una dirección IP específica (233.201) dentro de un archivo de logs remoto.
+**Ejercicio 2:** Filtre los logs de un error ocurrido el 30 de diciembre de 2019, separando los errores 400 y 500 en archivos distintos y almacenándolos en una estructura de directorios organizada.
+
+**2. Base de Datos:** Trabaje con una base de datos de taxis en Chicago, con tablas que incluyen información de vecindarios, taxis, viajes y condiciones meteorológicas.
+
+**Ejercicio 1:** Contabilizar el número total de taxis disponibles en la ciudad.
+**Ejercicio 2:** Determinar cuántos vehículos pertenecen a cada compañía y encontrar las compañías con menos de 100 automóviles.
+**Ejercicio 3:** Investigar un posible error en el cálculo de un coeficiente de costo basado en las condiciones meteorológicas, utilizando la tabla de registros meteorológicos.
+**Ejercicio 4:** Verificar discrepancias entre las ganancias reportadas por la aplicación y los datos reales de los viajes realizados en los días 15 y 16 de noviembre de 2017.
+
+Para más detalles en las respuestas puedes consultar el archivo en el siguiente enlace: ("https://github.com/Sandrarodriguezrey/Proyecto6_SQL/blob/main/Proyecto%20Sprint%206%20Sandra%20Rodriguez.pdf")
 
 ## Herramientas utilizadas:
 
-**SQL** Para el diseño de casos de pruebas y la gestión de errores.
+**SQL** Para realizar consultas sobre la base de datos y analizar la información relacional
 
-**Hojas de calculo** Google sheets.
+**Hojas de calculo** Google sheets. Para documentar y organizar los resultados obtenidos durante las consultas y análisis realizados.
 
 # CONCLUSIÓN
 
-En este proyecto he fortalecido mis competencias en bases de datos y en análisis de logs, conociendo un enfoque más integral sobre cómo manejar la calidad del software desde diferentes perspectivas.
-Me ha proporcionado una valiosa experiencia práctica en la aplicación de SQL y en la gestión de bases de datos, que son habilidades importantes para cualquier ingeniero de calidad.
+Este proyecto me permitió profundizar muchos mas mis habilidades  en el manejo de logs en consola como en la manipulación de bases de datos SQL. Aprendí a trabajar con grandes volúmenes de datos en un entorno realista, lo que me dio una comprensión más clara de cómo se gestionan los errores. Entendí la importancia de organizar y clasificar los datos de manera eficiente, tanto en la parte de logs como en la base de datos, para facilitar su análisis y diagnóstico.
 
 ************
 
