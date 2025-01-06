@@ -92,9 +92,11 @@ Para determinar si hay un bug, debes obtener la selección del número de viajes
 Devuelve el campo company_name. Nombra trips_amount (cantidad de viajes) al campo con el número de viajes y devuélvelo.<br>
 Organiza en orden descendente los resultados obtenidos en el campo trips_amount.
 
-## Se adjunta Respuesta en PDF 
+## Se adjunta Respuesta en PDF   
 
-## 7. Herramientas utilizadas:
+<img src="https://github.com/Sandrarodriguezrey/Proyecto6_SQL/blob/main/Proyecto%20Base%20de%20Datos.pdf">
+
+## Herramientas utilizadas:
 
 **SQL** Para el diseño de casos de pruebas y la gestión de errores.
 
